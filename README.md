@@ -32,8 +32,8 @@ Este é um projeto simples de uma lista de tarefas com backend em Python (Flask)
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/PabloRangel1/ProjectPython1.git
+cd ProjectPython1
 ```
 2. Executar
 ```http://127.0.0.1:5000/```
