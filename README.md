@@ -26,7 +26,8 @@ Este é um projeto simples de uma lista de tarefas com backend em Python (Flask)
 
 ## 📸 Captura de Tela
 
-![preview](screenshot.png)
+![Captura de tela 2025-06-06 122956](https://github.com/user-attachments/assets/9341aaaf-0c9a-4a11-8cfc-40829277e68a)
+
 
 ## 🚀 Como Executar
 
