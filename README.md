@@ -1,7 +1,6 @@
 # 📝 Gerenciador de Tarefas (To-Do List) com Flask + SQLite
 
-Este é um projeto simples de uma lista de tarefas com backend em Python (Flask) e banco de dados SQLite. O objetivo é demonstrar habilidades com desenvolvimento web, banco de dados relacional e criação de interfaces modernas com animações.
-
+Este é um projeto simples de uma lista de tarefas com backend em Python (Flask) e banco de dados SQLite. O objetivo é demonstrar habilidades com desenvolvimento web, banco de dados relacional.
 ## 💻 Tecnologias Utilizadas
 
 - Python 3
@@ -20,16 +19,16 @@ Este é um projeto simples de uma lista de tarefas com backend em Python (Flask)
 - ❌ Remover tarefas individualmente
 - 🧹 Remover todas as tarefas de uma vez
 - 📁 Separar visualmente tarefas pendentes das concluídas
-- 📊 Contadores de tarefas pendentes e concluídas
-- 🌙 Alternância entre modo claro e escuro
-- 🎨 Interface moderna com animações
+-  Contadores de tarefas pendentes e concluídas
+-  Alternância entre modo claro e escuro
+-  Interface moderna com animações
 
 ## 📸 Captura de Tela
 
 ![Captura de tela 2025-06-06 122956](https://github.com/user-attachments/assets/9341aaaf-0c9a-4a11-8cfc-40829277e68a)
 
 
-## 🚀 Como Executar
+##  Como Executar
 
 1. Clone o repositório:
 ```bash
